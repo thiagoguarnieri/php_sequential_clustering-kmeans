@@ -1,0 +1,1 @@
+php -f incremental_clustering.php 6 sample.csv cluster_list.csv
